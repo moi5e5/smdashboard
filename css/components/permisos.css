@@ -1,0 +1,90 @@
+ul#modulos li.action
+{
+	display: inline;
+    margin-right: 3em;
+    margin-left: 2em;
+}
+
+
+
+ul#modulos ul.level-2
+{
+	display: none;
+}
+
+ul#modulos div.row-level-1
+{
+    padding: .5em;
+    border-bottom: 1px solid #f0f0f0;
+    border-left: 1px solid #f0f0f0;
+    border-right: 1px solid #f0f0f0;
+}
+
+ul#modulos div.row-level-1:first-child
+{
+    border-top: 1px solid #EEE;
+}
+
+ul#modulos
+{
+	padding-left: 0;
+    margin-top: 1em;
+}
+
+.plus
+{
+	font-size: .8em !important;
+	color: #666;
+}
+
+.expand
+{
+	color: #333333;
+    background-color: #ffffff;
+    border-color: #ebf0f3;
+}
+
+ul.level-2 > li.subs
+{
+    margin-top: .5em;
+    list-style: none;
+    border-bottom: 0px solid #f0f0f0;
+    border-left: 0px solid #f0f0f0;
+    padding-left: .5em;
+    padding-bottom: .2em;
+}
+
+ul.level-2 li span
+{
+    color:#353535;
+    font-size: .9555em;
+}
+
+ul.actions
+{
+    padding-left: 10em;
+    margin-top: .5em;
+    margin-bottom: .5em;
+}
+
+input[type=checkbox]
+{
+    position: relative;
+    top: 2px;
+}
+
+span.action-name
+{
+    color: #25664e !important;
+}
+
+.acl-control
+{
+    display: none;
+}
+
+.acl-control-important
+{
+    display: none !important;
+}
+

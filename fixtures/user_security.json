@@ -1,0 +1,7 @@
+{ "user": { "name": "Usuario SM", "profile": "Consultas", "user_image": "", "menu": 
+	{ 
+	"Indicadores": {"icon":"glyphicon glyphicon-user","name":"Indicadores","url":"", "options":{ "Indicadores": {"icon":"glyphicon glyphicon-user","name":"Woodwing","url":"woodwing", "options" :{ }, "perms" : [ {"name":"Consultar"} ,{"name":"Editar"} ,{"name":"Agregar"} ,{"name":"Suspender"} ,{"name":"Eliminar"} ] } }, "perms" : [ ] } 
+
+	}, 
+
+	"sucursales" : [ {"sucursalid":"50"} ,{"sucursalid":"51"} ,{"sucursalid":"52"} ,{"sucursalid":"53"} ,{"sucursalid":"54"} ,{"sucursalid":"55"} ,{"sucursalid":"56"} ,{"sucursalid":"57"} ,{"sucursalid":"58"} ,{"sucursalid":"59"} ,{"sucursalid":"60"} ,{"sucursalid":"61"} ,{"sucursalid":"62"} ,{"sucursalid":"63"} ,{"sucursalid":"64"} ] } }

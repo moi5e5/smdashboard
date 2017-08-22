@@ -1,0 +1,24 @@
+@media print {
+
+	span.no-print, div.no-print, input.no-print, label.no-print, button.no-print, table.no-print, td.no-print, tr.no-print, tbody.noprint,
+	thead.no-print, th.no-print
+	{
+		display: none;
+	}
+	.panel.no-print
+	{
+		display: block;
+		border: 0px !important;
+	}
+	.panel.no-print>.panel-heading
+	{
+		border: 0px !important;
+		font-size: 16pt;
+	}
+	.container
+	{
+		margin-left: 0px;
+		margin-right: -100px;
+	}
+ }
+ 
